@@ -1,6 +1,6 @@
 # :inbox_tray:BBDownPyHelper
 
-[![github license](https://img.shields.io/github/license/FallingMY/BBDownPyHelper)](https://github.com/FallingMY/BBDownPyHelper) [![Language](https://img.shields.io/badge/language-python-brightgreen)](https://github.com/FallingMY/BBDownPyHelper) [![contact](https://img.shields.io/badge/Contact-email-blue)](falling_my@outlook.com)
+[![github license](https://img.shields.io/github/license/FallingMY/BBDownPyHelper)](https://github.com/FallingMY/BBDownPyHelper) [![Language](https://img.shields.io/badge/language-python-brightgreen)](https://github.com/FallingMY/BBDownPyHelper) [![contact](https://img.shields.io/badge/Contact-email-blue)](falling_my@outlook.com)  
 A BBDown download helper based on python
 
 # :pushpin:Notice
