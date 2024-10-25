@@ -13,7 +13,7 @@ pip install easygui
 ```
 If this is your first time using BBDown to download videos from Bilibili, open Command Prompt in the directory and enter `bbdown.exe login` to log in by scanning a QR code, allowing you to download 1080p and higher-quality videos.
 
-# :wheelchair_symbol:Run the Download helper
+# ♿Run the Download helper
 ```
 python bph.py
 ```
