@@ -24,7 +24,7 @@ And use `Ctrl + c` in cmd to stop this program.
 - [ ] Video quality selection
 - [ ] Sound quality selection
 - [ ] Remember the user's choice and set it as the default option
-- [ ] Multithreaded execution
+- [x] Multithreaded execution
 - [ ] Built-in format conversion
 - [ ] ......
 
